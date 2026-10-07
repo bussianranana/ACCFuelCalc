@@ -9,9 +9,9 @@ tunnel plate on the crown.
 ![seam](preview/seam.png)
 ![portal](preview/portal.png)
 
-The previews come from a simple software renderer with flat shading and a
-stand-in road. The scene is end piece + 2 centre pieces + an end piece turned
-180°. The previews show placement, texturing and seams, not what AC will look like.
+The previews come from a simple software renderer with flat shading. The
+floor shows as blank because the pieces contain no road. The scene is end
+piece + 2 centre pieces + an end piece turned 180°. The previews show placement, texturing and seams, not what AC will look like.
 
 ## Files
 
